@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Chevy",
+        "price": 15000,
+        "year": 2015,
+        "contact": {
+            "dealer": "John",
+            "number": "111-111-1111"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Bentley",
+        "price": 45000,
+        "year": 2010,
+        "contact": {
+            "dealer": "Bob",
+            "number": "222-222-2222"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Ford",
+        "price": 5000,
+        "year": 2014,
+        "contact": {
+            "dealer": "Laken",
+            "number": "333-333-3333"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Nissan",
+        "price": 25000,
+        "year": 2010,
+        "contact": {
+            "dealer": "Harry",
+            "number": "444-444-4444"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Land Lover",
+        "price": 35000,
+        "year": 2017,
+        "contact": {
+            "dealer": "Sean",
+            "number": "555-555-5555"
+        }
+    }
+]
